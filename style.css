@@ -1,0 +1,48 @@
+table, th, tr, td{
+    border: 1px dashed black;
+    margin: auto;
+    width: 30%;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.center-text {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+.text-medium {
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+#games-table {
+    list-style-position:inside;
+    text-align: center;
+}
+
+img {
+    padding: 5px;
+    width: 250px;
+    border-radius: 18px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+}
+
+#salestable {
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    width: 30%;
+    border: 2px solid black;
+    text-align: center;
+}
